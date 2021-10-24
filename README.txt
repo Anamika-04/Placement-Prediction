@@ -1,4 +1,4 @@
-This project aims to predict whether a student will get placed or not, based on 'Placement Data'. The data used is a small dummy data comprising of 215 rows and 14 columns like intermediate percentage, intermediate board, degree, degree percentage ets. 
+This project aims to predict whether a student will get placed or not, based on 'Placement Data'. The data used is a small dummy data comprising of 215 rows and 14 columns like intermediate percentage, intermediate board, degree, degree percentage etc. 
 
 I loaded the dataset, checked and treated its missing values, cleaned and restructured the data. I used the label encoding technique to encode the categorical values & then standardized and normalized the data, hence making it ready for the modelling part.
 
